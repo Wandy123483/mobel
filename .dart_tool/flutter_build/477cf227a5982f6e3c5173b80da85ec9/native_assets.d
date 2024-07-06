@@ -1,0 +1,1 @@
+ C:\\UAS\ MOBILE\\Semester-4-Pemrograman-mobile-UAS-main\\flutter_application_finalproject\\.dart_tool\\flutter_build\\477cf227a5982f6e3c5173b80da85ec9\\native_assets.yaml: 
